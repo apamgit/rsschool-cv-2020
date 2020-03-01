@@ -1,1 +1,1 @@
-https://apamgit.github.io/rsschool-cv/cv
+CV: https://apamgit.github.io/rsschool-cv/cv
