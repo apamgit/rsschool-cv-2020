@@ -66,5 +66,14 @@ Email: alex.parnitsky@gmail.com, europacorp@tut.by
 **The Joint Institute of Mechanical Engineering of the National Academy of Sciences of Belarus**, Belarus, Minsk<br>*PhD in Engineering science*
   
 
+## COURSES
+  
+- January 2014 – February 2014
 
+**Professional HTML & CSS Online Course, HTML Academy**
+([slavproduct.by](https://slavproduct.by), [slavtour.by](http://slavtour.by))
 
+- August 2019 – November 2019
+
+**Comprehensive iOS App Development Course, IT-Academy**
+(AR Experience App)
